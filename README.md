@@ -6,7 +6,7 @@
 
 - Body
 - Fins with motors - (Pitch, Roll)
-- Sensors - (GPS,Compass, Altimeter, Gyroscope, Accelerometer)
+- Sensors - (GPS, compass, altimeter, gyroscope, accelerometer)
 - Transmitter
 - Microntroller
 - Backup Parachute
